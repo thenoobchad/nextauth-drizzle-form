@@ -8,6 +8,27 @@
       "when": 1745834329025,
       "tag": "0000_fat_drax",
       "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "6",
+      "when": 1745838151270,
+      "tag": "0001_tough_blacklash",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "6",
+      "when": 1745840120395,
+      "tag": "0002_mighty_chimera",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "6",
+      "when": 1745840155134,
+      "tag": "0003_burly_thundra",
+      "breakpoints": true
     }
   ]
 }
